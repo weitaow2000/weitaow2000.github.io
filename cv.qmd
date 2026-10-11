@@ -1,0 +1,16 @@
+---
+title: "CV"
+---
+
+<span class="eyebrow">ACADEMIC BACKGROUND</span>
+
+# Curriculum Vitae
+
+## Education
+
+- **PhD in Environmental Science** — University of Auckland (ongoing)
+- **MPhil in Earth, Ocean and Atmospheric Science** — Hong Kong University of Science and Technology (Guangzhou)
+- **MSc in Food Safety and Toxicology** — University of Hong Kong
+- **BEng in Bioengineering** — Beijing University of Chemical Technology
+
+*A downloadable CV will be added after the final version is prepared.*

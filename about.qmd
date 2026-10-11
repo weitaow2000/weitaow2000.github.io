@@ -1,0 +1,93 @@
+
+---
+pagetitle: "About | Weitao Wang"
+page-layout: full
+---
+
+::: {.about-page}
+
+::: {.about-intro}
+
+::: {.about-copy}
+
+## About Me
+
+I am a PhD candidate in Environmental Science at the University of Auckland, New Zealand. My academic background spans bioengineering, food safety and toxicology, and environmental science, shaping my interdisciplinary approach to understanding agricultural systems and their environmental impacts.
+
+:::
+
+::: {.about-photo}
+
+![](images/profile.jpg)
+
+:::
+
+:::
+
+## Education
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2024–Present
+:::
+
+::: {.conference-year-content}
+
+**PhD in Environmental Science**
+
+University of Auckland, New Zealand
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2022–2024
+:::
+
+::: {.conference-year-content}
+
+**MPhil in Earth, Ocean and Atmospheric Sciences**
+
+Hong Kong University of Science and Technology (Guangzhou), China
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2021–2022
+:::
+
+::: {.conference-year-content}
+
+**MSc in Food Safety and Toxicology**
+
+University of Hong Kong, Hong Kong SAR
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2017–2021
+:::
+
+::: {.conference-year-content}
+
+**BEng in Bioengineering**
+
+Beijing University of Chemical Technology, China
+
+:::
+
+:::
+
+:::

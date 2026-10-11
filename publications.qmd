@@ -1,0 +1,258 @@
+
+---
+pagetitle: "Publications | Weitao Wang"
+page-layout: full
+---
+::: {.publications-page}
+
+## Sustainable Agriculture
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2026
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Comparing the Impacts of a Biopesticide and a Synthetic Pesticide on Potato Production: A Multi-Omics Analysis of Carvacrol and Dimethomorph**
+
+*Journal of Agricultural and Food Chemistry*, [[Link]](https://doi.org/10.1021/acs.jafc.6c09742)
+
+**Weitao Wang**, Wenyuan Huang, Sarah J. Knight, Karin Müller, Long Cheng, Fan Xiang, Jiahuan Long, Melanie Kah
+:::
+
+::: {.pub-item}
+**Biopesticides vs Conventional Synthetic Pesticides: A Multidimensional Evaluation of Impacts on Agricultural Productivity and Environmental Health**
+
+*Eco-Environment & Health*, [[Link]](https://doi.org/10.1016/j.eehl.2026.100286)
+
+**Weitao Wang**, Sarah J. Knight, Yannan Zhou, Karin Müller, Jinshu Chi, Melanie Kah
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2025
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Residue behavior, bioconcentration and dietary risk assessments of tetrachlorantraniliprole and dinotefuran in rice production system**
+
+*Journal of Food Composition and Analysis*, [[Link]](https://doi.org/10.1016/j.jfca.2025.108572)
+
+W. Chen†, **W. Wang†**, H. Xiong, J. Luo, Y. Zhang
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2024
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Insights into the effects of anilofos on direct-seeded rice production system through untargeted metabolomics**
+
+*Environmental Pollution*, [[Link]](https://doi.org/10.1016/j.envpol.2024.124668)
+
+**W. Wang**, J. Long, H. Wang, W. Huang, Y. Zhang, T. Duan
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2023
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Dissipation and dietary risk assessment of cyflumetofen, bifenazate and their metabolites in citrus in China**
+
+*Cogent Food & Agriculture*, [[Link]](https://doi.org/10.1080/23311932.2022.2157091)
+
+**W. Wang†**, W. Huang†, J. Mao, X. Zhang, H. Wang, A. Kaium, Y. Zhang
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2022
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Dissipation and Dietary Risk Assessment of Thiacloprid and Tolfenpyrad in Tea in China**
+
+*Agronomy*, [[Link]](https://doi.org/10.3390/agronomy12123166)
+
+**W. Wang†**, H. Chen†, D. Gao, J. Long, H. Long, Y. Zhang
+:::
+
+:::
+
+:::
+
+---
+
+## Food Safety
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2026
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Occurrence and exposure assessment of benzoic acid, sorbic acid, and sodium saccharin in condiments from Guizhou Province, China**
+
+*Journal of Food Composition and Analysis*, [[Link]](https://doi.org/10.1016/j.jfca.2026.109289)
+
+X. Tian, Y. Tao, W. Tian, S. Li, R. Luo, L. Yu, **W. Wang**\*
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2024
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Effect of marinating with green tea extract on the safety and sensory profiles of oven-baked oyster**
+
+*Food Chemistry*, [[Link]](https://doi.org/10.1016/j.foodchem.2024.139090)
+
+H. Wang, B. Shi, **W. Wang**, Y. Zhang, K. W. Cheng
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2023
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Reduction in Five Harmful Substances in Fried Potato Chips by Pre-Soaking Treatment with Different Tea Extracts**
+
+*Foods*, [[Link]](https://doi.org/10.3390/foods12020321)
+
+**W. Wang†**, H. Wang†, Z. Wu, T. Duan, P. Liu, S. Ou, H. El-Nezami, J. Zheng
+:::
+
+:::
+
+:::
+
+---
+
+## Natural Products
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2025
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Metabolic differences and potential action mechanisms of core antioxidant substances of Gastrodia elata in Guizhou Province, China by untargeted metabolomics and network pharmacology**
+
+*Food Bioscience*, [[Link]](https://doi.org/10.1016/j.fbio.2025.106143)
+
+**W. Wang**, J. Mao, J. Chen, W. Huang, T. Duan, Y. Zhang, X. Wu
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2023
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Characterization of metabolite landscape distinguishes wild from cultivated Polygonati Rhizomes by UHPLC-Q-TOF-MS untargeted metabolomics**
+
+*Food Bioscience*, [[Link]](https://doi.org/10.1016/j.fbio.2023.102574)
+
+**W. Wang†**, Z. Zheng†, J. Chen, T. Duan, H. He, S. Tang
+:::
+
+:::
+
+:::
+
+::: {.conference-year}
+
+::: {.conference-year-label}
+2022
+:::
+
+::: {.conference-year-content}
+
+::: {.pub-item}
+**Application of UHPLC-Q-TOF MS based untargeted metabolomics reveals variation and correlation amongst different tissues of Eucommia ulmoides Oliver**
+
+*Microchemical Journal*, [[Link]](https://doi.org/10.1016/j.microc.2021.106919)
+
+J. Chen†, **W. Wang†**, J. Kong, Y. Yue, Y. Dong, J. Zhang, L. Liu
+:::
+
+::: {.pub-item}
+**Optimization of Extraction of Inulin from Taraxacum kok-saghyz Rodin by Response Surface Methodology and Its MALDI-TOF MS Analysis**
+
+*Science and Technology of Food Industry*, [[Link]](https://doi.org/10.13386/j.issn1002-0306.2021040173)
+
+J. Chen, **W. Wang**, Y. Dong, K. Hu, Q. Ma
+:::
+
+:::
+
+:::
+
+---
+
+*† Equal contribution; \* Corresponding author.*
+
+:::

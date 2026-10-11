@@ -1,0 +1,37 @@
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Weitao Wang"
+  search: false
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects/index.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: activities.qmd
+        text: Activities
+      - href: life/index.qmd
+        text: Life
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    left: "© 2026 Weitao Wang"
+    right: "Research, curiosity & everyday life."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true

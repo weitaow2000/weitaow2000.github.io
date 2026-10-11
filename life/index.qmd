@@ -1,0 +1,50 @@
+
+---
+pagetitle: "Life | Weitao Wang"
+page-layout: full
+lightbox: true
+---
+
+::: {.life-page}
+
+## Moments Along the Way
+
+A collection of places, people, and moments beyond research.
+
+::: {.life-gallery}
+
+![Australia](../images/life/AU1.jpg){.lightbox}
+
+![Australia](../images/life/AU2.JPG){.lightbox}
+
+![China](../images/life/GZ1.jpg){.lightbox}
+
+![China](../images/life/GZ2.JPG){.lightbox}
+
+![Japan](../images/life/JP1.JPG){.lightbox}
+
+![Japan](../images/life/JP2.JPG){.lightbox}
+
+![New Zealand](../images/life/NZ1.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ2.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ3.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ4.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ5.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ6.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ7.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ8.jpg){.lightbox}
+
+![New Zealand](../images/life/NZ9.JPG){.lightbox}
+
+![New Zealand](../images/life/NZ10.JPG){.lightbox}
+
+:::
+
+:::

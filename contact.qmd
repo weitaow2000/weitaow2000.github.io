@@ -1,0 +1,53 @@
+
+---
+pagetitle: "Contact | Weitao Wang"
+page-layout: full
+---
+
+::: {.contact-page}
+
+## Get in Touch
+
+I welcome opportunities for academic collaboration, interdisciplinary research, and exchanging ideas. Feel free to get in touch!
+
+::: {.contact-links}
+
+::: {.contact-link-item}
+**Email**
+
+[weitao.wang@auckland.ac.nz](mailto:weitao.wang@auckland.ac.nz)
+:::
+
+::: {.contact-link-item}
+**ORCID**
+
+[0000-0002-5325-0607](https://orcid.org/0000-0002-5325-0607)
+:::
+
+:::
+
+## Acknowledgements
+
+I am grateful to my supervisors, collaborators, colleagues, and friends who have supported and contributed to my academic journey.
+
+## Guestbook
+
+Feel free to leave a message or say hello!
+
+::: {.guestbook-container}
+
+*Guestbook coming soon.*
+
+:::
+
+## Visitor Footprint
+
+A glimpse of where visitors to this website come from.
+
+::: {.visitor-container}
+
+*Visitor statistics coming soon.*
+
+:::
+
+:::
