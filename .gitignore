@@ -12,3 +12,6 @@ _site/
 
 # Editor files
 .vscode/
+
+/.quarto/
+**/*.quarto_ipynb
