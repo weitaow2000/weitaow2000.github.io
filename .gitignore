@@ -1,0 +1,14 @@
+
+# Quarto temporary files
+.quarto/
+*_cache/
+*_files/
+
+# Generated website
+_site/
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
