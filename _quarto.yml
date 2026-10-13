@@ -4,6 +4,7 @@ project:
   output-dir: _site
 
 website:
+  site-url: "https://weitaow2000.github.io/"
   title: "Weitao Wang"
   search: false
   navbar:
@@ -35,3 +36,6 @@ format:
     toc: false
     anchor-sections: false
     smooth-scroll: true
+    include-in-header: google-verification.html
+ 
+
