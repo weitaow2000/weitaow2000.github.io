@@ -30,15 +30,95 @@ I welcome opportunities for academic collaboration, interdisciplinary research, 
 
 I am grateful to my supervisors, collaborators, colleagues, and friends who have supported and contributed to my academic journey.
 
+### Supervisors
+
+*To be updated.*
+
+
+### Collaborators
+
+::: {.collaborators-grid}
+
+::: {.collaborator-card}
+<img src="images/collaborators/Huaixu%20Wang.png"
+     alt="Huaixu Wang"
+     class="collaborator-photo">
+
+**Huaixu Wang**
+
+PhD Student
+
+Kansas State University
+:::
+
+::: {.collaborator-card}
+<img src="images/collaborators/Jiangyan%20Chen.jpg"
+     alt="Jiangyan Chen"
+     class="collaborator-photo photo-jiangyan">
+
+**Jiangyan Chen**
+
+PhD Student
+
+Chinese Academy of Sciences
+:::
+
+::: {.collaborator-card}
+<img src="images/collaborators/Yannan%20Zhou.jpg"
+     alt="Yannan Zhou"
+     class="collaborator-photo">
+
+**Yannan Zhou**
+
+PhD Student
+
+Hong Kong University of Science and Technology (Guangzhou)
+:::
+
+::: {.collaborator-card}
+<img src="images/collaborators/Ziang%20Zhao.jpg"
+     alt="Ziang Zhao"
+     class="collaborator-photo">
+
+**Ziang Zhao**
+
+PhD Student
+
+Harbin Institute of Technology, Shenzhen
+:::
+
+:::
+
+
+*More to be added.*
+
 ## Guestbook
 
 Feel free to leave a message or say hello!
 
 ::: {.guestbook-container}
 
-*Guestbook coming soon.*
+```{=html}
+<script src="https://giscus.app/client.js"
+        data-repo="weitaow2000/weitaow2000.github.io"
+        data-repo-id="R_kgDOVEzbVg"
+        data-category="General"
+        data-category-id="DIC_kwDOVEzbVs4DIS6F"
+        data-mapping="specific"
+        data-term="Guestbook"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+```
 
 :::
+
 
 ## Visitor Footprint
 
@@ -46,8 +126,16 @@ A glimpse of where visitors to this website come from.
 
 ::: {.visitor-container}
 
-*Visitor statistics coming soon.*
+```{=html}
+<div class="visitor-map">
+  <script type="text/javascript"
+          id="mapmyvisitors"
+          src="https://mapmyvisitors.com/map.js?cl=ffffff&w=800&t=n&d=5rndF5irS4xf7El7OaxC3kuAGnZYl8O04rJjQ4MS-U8&co=2d78ad&cmo=93a088&cmn=f9db8f&ct=ffffff">
+  </script>
+</div>
+```
 
 :::
+
 
 :::
