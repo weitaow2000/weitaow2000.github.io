@@ -34,7 +34,6 @@ I am grateful to my supervisors, collaborators, colleagues, and friends who have
 
 *To be updated.*
 
-
 ### Collaborators
 
 ::: {.collaborators-grid}
@@ -89,8 +88,9 @@ Harbin Institute of Technology, Shenzhen
 
 :::
 
-
+::: {.collaborators-note}
 *More to be added.*
+:::
 
 ## Guestbook
 
@@ -116,9 +116,9 @@ Feel free to leave a message or say hello!
         async>
 </script>
 ```
-
 :::
 
+:::
 
 ## Visitor Footprint
 
@@ -136,6 +136,5 @@ A glimpse of where visitors to this website come from.
 ```
 
 :::
-
 
 :::
