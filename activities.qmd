@@ -118,6 +118,24 @@ Journal of Genetic Engineering and Biotechnology
 
 :::
 
+### Editorial Support (Cloud Editor)
+
+Supporting journal outreach, content promotion, and manuscript proofreading.
+
+::: {.editorial-grid}
+
+::: {.journal-card}
+![](images/journals/FSHW.jpg){fig-alt="Food Science and Human Wellness journal cover"}
+
+Food Science and Human Wellness
+:::
+
+::: {.journal-card}
+![](images/journals/journal-of-environmental-sciences.jpg){fig-alt="Journal of Environmental Sciences journal cover"}
+
+Journal of Environmental Sciences
+:::
+:::
 ---
 
 ## Awards & Honours
