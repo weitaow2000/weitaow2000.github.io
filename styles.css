@@ -353,3 +353,31 @@ main.content > p { max-width: 760px; }
 .collaborator-photo.photo-jiangyan {
   object-position: 60% center;
 }
+
+
+/* Editorial Support — maximum 4 journals per row */
+
+.editorial-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px;
+  margin: 1.5rem 0 2rem;
+}
+
+.editorial-grid .journal-card {
+  min-width: 0;
+  width: 100%;
+}
+
+/* Responsive layout */
+@media (max-width: 800px) {
+  .editorial-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .editorial-grid {
+    grid-template-columns: 1fr;
+  }
+}
