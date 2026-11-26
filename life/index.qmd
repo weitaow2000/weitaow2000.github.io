@@ -93,7 +93,7 @@ Music is a way I express myself, tell stories, and capture moments in life. Here
          loading="lazy">
     <div class="music-info">
       <h3>You &amp; I</h3>
-      <p>Gratuated Walnut · Mr. Walnut</p>
+      <p>Graduated Walnut · Mr. Walnut</p>
       <audio controls preload="none"
              aria-label="You and I">
         <source src="../music/you-and-i.wav"
@@ -109,7 +109,7 @@ Music is a way I express myself, tell stories, and capture moments in life. Here
          loading="lazy">
     <div class="music-info">
       <h3>悦心情</h3>
-      <p>Gratuated Walnut 2 · Mr. Walnut</p>
+      <p>Graduated Walnut 2 · Mr. Walnut</p>
       <audio controls preload="none"
              aria-label="悦心情">
         <source src="../music/yue-xin-qing.wav"
