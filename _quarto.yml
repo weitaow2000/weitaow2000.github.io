@@ -2,6 +2,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "music/*"
 
 website:
   site-url: "https://weitaow2000.github.io/"
@@ -37,5 +39,3 @@ format:
     anchor-sections: false
     smooth-scroll: true
     include-in-header: google-verification.html
- 
-

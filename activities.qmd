@@ -14,6 +14,9 @@ page-layout: full
 
 ::: {.conference-year-content}
 
+**22nd International Symposium on Toxicity Assessment**  
+*Auckland, New Zealand* · Oral Presentation
+
 **SETAC Asia-Pacific 15th Biennial Meeting**  
 *Tsukuba, Japan* · Oral Presentation
 

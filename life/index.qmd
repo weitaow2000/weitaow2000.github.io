@@ -2,49 +2,141 @@
 ---
 pagetitle: "Life | Weitao Wang"
 page-layout: full
-lightbox: true
+lightbox: false
 ---
 
-::: {.life-page}
+:::: {.life-page}
 
 ## Moments Along the Way
 
 A collection of places, people, and moments beyond research.
 
+*Click on any photo to view it in full resolution.*
+
 ::: {.life-gallery}
 
-![Australia](../images/life/AU1.jpg){.lightbox}
+[![Australia](../images/life/preview/AU1.webp){loading="lazy"}](../images/life/AU1.jpg){target="_blank"}
 
-![Australia](../images/life/AU2.JPG){.lightbox}
+[![Australia](../images/life/preview/AU2.webp){loading="lazy"}](../images/life/AU2.JPG){target="_blank"}
 
-![China](../images/life/GZ1.jpg){.lightbox}
+[![China](../images/life/preview/GZ1.webp){loading="lazy"}](../images/life/GZ1.jpg){target="_blank"}
 
-![China](../images/life/GZ2.JPG){.lightbox}
+[![China](../images/life/preview/GZ2.webp){loading="lazy"}](../images/life/GZ2.JPG){target="_blank"}
 
-![Japan](../images/life/JP1.JPG){.lightbox}
+[![Hong Kong](../images/life/preview/HK1.webp){loading="lazy"}](../images/life/HK1.jpeg){target="_blank"}
 
-![Japan](../images/life/JP2.JPG){.lightbox}
+[![Japan](../images/life/preview/JP1.webp){loading="lazy"}](../images/life/JP1.JPG){target="_blank"}
 
-![New Zealand](../images/life/NZ1.jpg){.lightbox}
+[![Japan](../images/life/preview/JP2.webp){loading="lazy"}](../images/life/JP2.JPG){target="_blank"}
 
-![New Zealand](../images/life/NZ2.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ1.webp){loading="lazy"}](../images/life/NZ1.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ3.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ2.webp){loading="lazy"}](../images/life/NZ2.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ4.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ3.webp){loading="lazy"}](../images/life/NZ3.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ5.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ4.webp){loading="lazy"}](../images/life/NZ4.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ6.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ5.webp){loading="lazy"}](../images/life/NZ5.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ7.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ6.webp){loading="lazy"}](../images/life/NZ6.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ8.jpg){.lightbox}
+[![New Zealand](../images/life/preview/NZ7.webp){loading="lazy"}](../images/life/NZ7.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ9.JPG){.lightbox}
+[![New Zealand](../images/life/preview/NZ8.webp){loading="lazy"}](../images/life/NZ8.jpg){target="_blank"}
 
-![New Zealand](../images/life/NZ10.JPG){.lightbox}
+[![New Zealand](../images/life/preview/NZ9.webp){loading="lazy"}](../images/life/NZ9.JPG){target="_blank"}
 
-:::
+[![New Zealand](../images/life/preview/NZ10.webp){loading="lazy"}](../images/life/NZ10.JPG){target="_blank"}
+
+[![Singapore](../images/life/preview/SG1.webp){loading="lazy"}](../images/life/SG1.jpeg){target="_blank"}
+
+[![Singapore](../images/life/preview/SG2.webp){loading="lazy"}](../images/life/SG2.jpeg){target="_blank"}
+
+[![United Kingdom](../images/life/preview/UK1.webp){loading="lazy"}](../images/life/UK1.jpeg){target="_blank"}
+
+[![United Kingdom](../images/life/preview/UK2.webp){loading="lazy"}](../images/life/UK2.jpeg){target="_blank"}
+
+[![United Kingdom](../images/life/preview/UK3.webp){loading="lazy"}](../images/life/UK3.jpeg){target="_blank"}
+
+::::
+
+::: {.life-music}
+
+## Original Music in My Life
+
+Music is a way I express myself, tell stories, and capture moments in life. Here are some of my original works.
+
+```{=html}
+<div class="music-list">
+
+  <div class="music-card">
+    <img class="music-cover"
+         src="../music/drive-my-car.jpg"
+         alt="Drive my car"
+         loading="lazy">
+    <div class="music-info">
+      <h3>Drive my car</h3>
+      <p>Nansha Memory · Mr. Walnut</p>
+      <audio controls preload="none"
+             aria-label="Drive my car">
+        <source src="../music/drive-my-car.mp3"
+                type="audio/mpeg">
+      </audio>
+    </div>
+  </div>
+
+  <div class="music-card">
+    <img class="music-cover"
+         src="../music/you-and-i.jpg"
+         alt="You &amp; I"
+         loading="lazy">
+    <div class="music-info">
+      <h3>You &amp; I</h3>
+      <p>Gratuated Walnut · Mr. Walnut</p>
+      <audio controls preload="none"
+             aria-label="You and I">
+        <source src="../music/you-and-i.wav"
+                type="audio/wav">
+      </audio>
+    </div>
+  </div>
+
+  <div class="music-card">
+    <img class="music-cover"
+         src="../music/yue-xin-qing.jpg"
+         alt="悦心情"
+         loading="lazy">
+    <div class="music-info">
+      <h3>悦心情</h3>
+      <p>Gratuated Walnut 2 · Mr. Walnut</p>
+      <audio controls preload="none"
+             aria-label="悦心情">
+        <source src="../music/yue-xin-qing.wav"
+                type="audio/wav">
+      </audio>
+    </div>
+  </div>
+
+  <div class="music-card">
+    <img class="music-cover"
+         src="../music/xx.jpg"
+         alt="XX"
+         loading="lazy">
+    <div class="music-info">
+      <h3>XX</h3>
+      <p>XX · Mr. Walnut</p>
+      <audio controls preload="none"
+             aria-label="XX">
+        <source src="../music/xx.mp3"
+                type="audio/mpeg">
+      </audio>
+    </div>
+  </div>
+
+</div>
+```
+
+*All music featured here is my original work. More songs could be found in NetEase Cloud Music.*
 
 :::
